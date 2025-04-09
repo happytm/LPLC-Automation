@@ -1,1 +1,2 @@
-# LPLC-Automation
+# LPLC-Automation = Low Power Low Cost Automation
+
